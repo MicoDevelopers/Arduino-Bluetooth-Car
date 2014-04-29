@@ -4,4 +4,4 @@ Arduino Bluetooth Car - code - arduino
 **********************************************************************************
 Created by MicoDevelopers (Dominik Jurečko(Slovakia), Lukáš Slivko(Slovakia))
 **********************************************************************************
-Free for commercial use.
+Free for all types of use
